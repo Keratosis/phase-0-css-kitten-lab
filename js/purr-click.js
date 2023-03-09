@@ -6,3 +6,7 @@ $(function(){
 });
 
 
+const a ="false"
+const b ='true'
+
+console.log({"a": !a, 'b': !b});
